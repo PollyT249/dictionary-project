@@ -1,10 +1,10 @@
 body {
-  background: #dde0ab;
+  background: linear-gradient(to right, rgb(182, 244, 146), rgb(51, 139, 147));
   color: #044a42;
 }
 
 a {
-  color: #7c5151;
+  color: #1d4944;
 }
 
 .App {
@@ -15,4 +15,8 @@ a {
 .App-footer {
   margin: 30px 0;
   text-align: center;
+}
+
+.App-footer-link:hover {
+  color: #022b26;
 }

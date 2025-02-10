@@ -16,6 +16,7 @@ export default function App() {
               href="https://github.com/PollyT249/dictionary-project"
               target="_blank"
               rel="noreferrer"
+              className="App-footer-link"
             >
               open-sources on GitHub.
             </a>
